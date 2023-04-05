@@ -1,3 +1,8 @@
+# Computer Online Send Telegram
+
+## WHAT IS IT?
+An automation project that updates when you start your computer and the active time during the period it is active.
+
 ## USAGE
 
 ### Install
