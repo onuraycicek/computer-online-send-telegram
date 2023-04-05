@@ -18,7 +18,14 @@ python3 -m venv venv
 source venv/bin/activate
 # install requirements
 pip3 install -r requirements.txt
+# create .env file
+cp .env.example .env
 ```
+
+### Edit .env file
+
+You need to edit the .env file. You can get the token from the [BotFather](https://t.me/BotFather) and the chat id from the [get_id_bot](https://t.me/get_id_bot).
+
 
 ### Setup
 
